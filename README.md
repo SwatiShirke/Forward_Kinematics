@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/edwinclement08/rbe500_final_project 
-cd rbe500_final_project
+cd Forward_Kinematics
 colcon build --symlink-install
 ```
 
