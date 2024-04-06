@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-git clone https://github.com/edwinclement08/rbe500_final_project 
+git clone https://github.com/SwatiShirke/Forward_Kinematics.git
 cd Forward_Kinematics
 colcon build --symlink-install
 ```
